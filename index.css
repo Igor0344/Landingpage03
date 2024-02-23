@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+display: flex;
+align-items: center;
+background-color:#1558d6;
+color: antiquewhite;
+
+}
+.logo img{
+width: 100px;
+}
+.logo1{
+    position: absolute;
+    top: 1vw;
+    left: 85vw;
+}
+.logo1 input{
+    padding: 15px;
+    align-items: center;
+    font-size: 10px;
+    background-color: #FFA500;
+   
+}
+.corpo1{
+    position: absolute;
+    top: 10vw;
+    left: 50vw;
+}
+.corpo1 img{
+    width: 350px;
+}
+.corpo2{
+color: #1558d6;
+position: absolute;
+top: 15vw;
+left:25vw ;
+}
+.corpo2 p{
+    font-size: 12px;
+}
+#corpo3{
+    font-size: 14px;
+}
